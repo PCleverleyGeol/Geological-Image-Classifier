@@ -14,4 +14,5 @@ THIN SECTION:
 SEM PHOTO: 
 CHART-CROSSPLOT: 
 
-Evaluation training metrics indicate an F1 of 0.7. I will update the repository as the model improves and also add additional categories.
+The model itself has been trained using Datature no-code app, with several hundred low resolution thumbnails from Fatkun Batch Downloader from Google's image search.
+Despite this, evaluation training metrics indicate an F1 of 0.7. I will update the repository as the model improves and also add additional categories.
